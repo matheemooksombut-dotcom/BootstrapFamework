@@ -75,3 +75,21 @@ a{
     color: black;
 }
 
+.nav-pills .nav-link:hover {
+  color: var(--bs-primary);
+  background-color: var(--bs-white);
+}
+
+.clearfix img{
+    border-radius: 60px;
+}
+.clearfix{
+    padding-left: 50px;
+}
+
+.icon{
+    margin-left: 60px;
+    display: flex;
+    flex-direction: row;
+    gap: 60px;
+}
